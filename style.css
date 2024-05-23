@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.homepage_background {
+    background-image: radial-gradient(white, yellow, red);
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Bree Serif";
+    background-size: cover;
+}
+
+.home_page_head {
+    font-size: 28px;
+    padding: 5px;
+    color: #1b152e;
+    font-weight: bold;
+}
+
+.home_page_para {
+    font-size: 18px;
+    font-weight: 500;
+    padding: 5px;
+    color: #8e80ba;
+}
+
+.text_button_1 {
+    background-color: #06050a;
+    color: white;
+    height: 36px;
+    width: 136px;
+    padding: 2px;
+    border-radius: 25px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 5px;
+}
+
+.menupage_background {
+    background-image: radial-gradient(white, yellow, red);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    text-align: center;
+    font-family: "Bree Serif";
+}
+
+.text_button_2 {
+    background-color: #06050a;
+    color: white;
+    height: 50px;
+    width: 150px;
+    padding: 2px;
+    border-radius: 25px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 5px;
+}
+
+.meena_page {
+    background-image: radial-gradient(white, yellow, red);
+    font-family: "Bree Serif";
+    text-align: center;
+}
+
+.temple-image {
+    height: 50%;
+    width: 100%;
+}
