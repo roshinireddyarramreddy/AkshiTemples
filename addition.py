@@ -9,3 +9,4 @@ if __name__ == "__main__":
     print("Close")
     print("Example File")
     print("Hello World!")
+    print("1")
